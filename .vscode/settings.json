@@ -13,84 +13,84 @@
     "workbench.colorCustomizations": {
 
         // ---- Tabs & Title Bar Borders ----
-        "tab.activeBorder": "#00FFFF",
-        "tab.activeBorderTop": "#00FFFF",
-        "tab.unfocusedActiveBorder": "#00FFFF",
-        "tab.unfocusedActiveBorderTop": "#00FFFF",
-        "titleBar.border": "#00FFFF",
-        "editorGroupHeader.tabsBorder": "#00FFFF",
-        "editorGroupHeader.border": "#00FFFF",
+        "tab.activeBorder": "#02c3fd",
+        "tab.activeBorderTop": "#02c3fd",
+        "tab.unfocusedActiveBorder": "#02c3fd",
+        "tab.unfocusedActiveBorderTop": "#02c3fd",
+        "titleBar.border": "#02c3fd",
+        "editorGroupHeader.tabsBorder": "#02c3fd",
+        "editorGroupHeader.border": "#02c3fd",
 
         // ⭐ NEW → Vertical border between tabs
-        "tab.border": "#00FFFF",
+        "tab.border": "#02c3fd",
         "tab.activeBackground": "#011627",
         "tab.inactiveBackground": "#011627",
 
         // ---- Editor Group Borders ----
-        "editorGroup.border": "#00FFFF",
-        "editorGroup.focusedEmptyBorder": "#00FFFF",
-        "editorGroup.dropBorder": "#00FFFF",
+        "editorGroup.border": "#02c3fd",
+        "editorGroup.focusedEmptyBorder": "#02c3fd",
+        "editorGroup.dropBorder": "#02c3fd",
 
         // ---- Panels & SideBars ----
-        "panel.border": "#00FFFF",
-        "panel.title.activeBorder": "#00FFFF",
-        "panelInput.border": "#00FFFF",
+        "panel.border": "#02c3fd",
+        "panel.title.activeBorder": "#02c3fd",
+        "panelInput.border": "#02c3fd",
 
         // ⭐ Border below the word "EXPLORER"
-        "sideBarSectionHeader.border": "#00FFFF",
+        "sideBarSectionHeader.border": "#02c3fd",
 
         // ⭐ FULL EXPLORER BORDER FIX
-        "sideBarContainer.border": "#00FFFF",      // MAIN Explorer box border
-        "sideBar.border": "#00FFFF",               // fallback border
+        "sideBarContainer.border": "#02c3fd",      // MAIN Explorer box border
+        "sideBar.border": "#02c3fd",               // fallback border
         "sideBar.background": "#011627",
         "sideBar.foreground": "#FFFFFF",
-        "sideBar.dropBorder": "#00FFFF",
-        "sideBarTitle.foreground": "#00FFFF",
+        "sideBar.dropBorder": "#02c3fd",
+        "sideBarTitle.foreground": "#02c3fd",
 
         // ---- Activity Bar ----
-        "activityBar.border": "#00FFFF",
+        "activityBar.border": "#02c3fd",
 
         // ---- Status Bar ----
-        "statusBar.border": "#00FFFF",
-        "statusBar.noFolderBorder": "#00FFFF",
-        "statusBar.debuggingBorder": "#00FFFF",
+        "statusBar.border": "#02c3fd",
+        "statusBar.noFolderBorder": "#02c3fd",
+        "statusBar.debuggingBorder": "#02c3fd",
 
         // ---- Editor Borders ----
-        "editor.hoverHighlightBorder": "#00FFFF",
-        "editorSuggestWidget.border": "#00FFFF",
-        "editorWidget.border": "#00FFFF",
-        "editor.findMatchBorder": "#00FFFF",
-        "editor.findMatchHighlightBorder": "#00FFFF",
-        "editor.rangeHighlightBorder": "#00FFFF",
+        "editor.hoverHighlightBorder": "#02c3fd",
+        "editorSuggestWidget.border": "#02c3fd",
+        "editorWidget.border": "#02c3fd",
+        "editor.findMatchBorder": "#02c3fd",
+        "editor.findMatchHighlightBorder": "#02c3fd",
+        "editor.rangeHighlightBorder": "#02c3fd",
         "editor.lineHighlightBackground": "#00000000",
         "editor.lineHighlightBorder": "#c9d24b",
 
         // ---- Menus, Lists, Inputs ----
-        "menu.border": "#00FFFF",
-        "dropdown.border": "#00FFFF",
-        "input.border": "#00FFFF",
-        "peekView.border": "#00FFFF",
+        "menu.border": "#02c3fd",
+        "dropdown.border": "#02c3fd",
+        "input.border": "#02c3fd",
+        "peekView.border": "#02c3fd",
 
         // ---- Notifications, Modals ----
-        "notificationCenter.border": "#00FFFF",
-        "notificationToast.border": "#00FFFF",
-        "notificationCenterHeader.border": "#00FFFF",
-        "notifications.border": "#00FFFF",
+        "notificationCenter.border": "#02c3fd",
+        "notificationToast.border": "#02c3fd",
+        "notificationCenterHeader.border": "#02c3fd",
+        "notifications.border": "#02c3fd",
 
         // ---- Debug ----
-        "debugToolBar.border": "#00FFFF",
-        "debugExceptionWidget.border": "#00FFFF",
+        "debugToolBar.border": "#02c3fd",
+        "debugExceptionWidget.border": "#02c3fd",
 
         // ---- Terminal ----
-        "terminal.border": "#00FFFF",
+        "terminal.border": "#02c3fd",
 
         // ⭐ Border below terminal options bar
-        "panelTitle.border": "#00FFFF",
-        "terminal.tab.activeBorder": "#00FFFF",
-        "terminal.tab.hoverBorder": "#00FFFF",
-        "terminal.dropBorder": "#00FFFF",
+        "panelTitle.border": "#02c3fd",
+        "terminal.tab.activeBorder": "#02c3fd",
+        "terminal.tab.hoverBorder": "#02c3fd",
+        "terminal.dropBorder": "#02c3fd",
 
         // ---- Welcome Page ----
-        "welcomePage.tileBorder": "#00FFFF"
+        "welcomePage.tileBorder": "#02c3fd"
     }
 }
