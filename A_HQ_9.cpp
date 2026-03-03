@@ -1,6 +1,6 @@
-/*The program is the solution of problem
+/*The program is the solution of codeoforces problem no. 133A
 Regn no.: 2025CA085
-Program Date: --    */
+Program Date: 01-03-2026    */
 
 /**
  *  ███████╗ █████╗ ███╗   ██╗██████╗ ██╗██████╗  █████╗ ███╗   ██╗
