@@ -1,4 +1,4 @@
-/*The program is the solution of codeforces problem no.
+/*The program is the solution of codeforces problem no. 1476A
 Regn no.: 2025CA085
 Program Date: 18-05-2026
 Program Time: 19:18 IST    */
